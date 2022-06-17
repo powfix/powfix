@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/.NET-512BD4.svg?&style=for-the-badge&logo=.NET&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unity-FFFFFF.svg?&style=for-the-badge&logo=Unity&logoColor=black"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?&style=for-the-badge&logo=Firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=black"/>
 </p>
 
 <p style="float: left">
@@ -40,6 +41,7 @@
   <img src="https://img.shields.io/badge/SQLite-003B57.svg?&style=for-the-badge&logo=SQLite&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon DynamoDB-4053D6.svg?&style=for-the-badge&logo=Amazon DynamoDB&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D.svg?&style=for-the-badge&logo=Redis&logoColor=white"/>
 </p>
 
 <p style="float: left">
@@ -47,12 +49,20 @@
   <img src="https://img.shields.io/badge/NGINX-009639.svg?&style=for-the-badge&logo=NGINX&logoColor=white"/>
   <img src="https://img.shields.io/badge/Let's Encrypt-003A70.svg?&style=for-the-badge&logo=Let's Encrypt&logoColor=white"/>
   <img src="https://img.shields.io/badge/VMware-607078.svg?&style=for-the-badge&logo=VMware&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939.svg?&style=for-the-badge&logo=Jenkins&logoColor=white"/>
 </p>
 
 <p style="float: left">
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E.svg?&style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google Cloud-4285F4.svg?&style=for-the-badge&logo=Google Cloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Naver Cloud-03C75A.svg?&style=for-the-badge&logo=Naver&logoColor=white"/>
+</p>
+
+<p style="float: left">
+  <img src="https://img.shields.io/badge/Atlassian-0052CC.svg?&style=for-the-badge&logo=Atlassian&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC.svg?&style=for-the-badge&logo=Jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Confluence-172B4D.svg?&style=for-the-badge&logo=Confluence&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bugsnag-4949E4.svg?&style=for-the-badge&logo=Bugsnag&logoColor=white"/>
 </p>
 
 # IDE
@@ -63,18 +73,3 @@
   <img src="https://img.shields.io/badge/DataGrip-000000.svg?&style=for-the-badge&logo=DataGrip&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91.svg?&style=for-the-badge&logo=Visual Studio&logoColor=white"/>
 </p>
-
-<!--
-**powfix/powfix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
