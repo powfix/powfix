@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/CentOS-262577.svg?&style=for-the-badge&logo=CentOS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kali Linux-557C94.svg?&style=for-the-badge&logo=Kali Linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Synology-B5B5B6.svg?&style=for-the-badge&logo=Synology&logoColor=white"/>
 </p>
 
 <p style="float: left">
