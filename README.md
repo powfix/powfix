@@ -82,6 +82,12 @@
   <img src="https://img.shields.io/badge/Bugsnag-4949E4.svg?&style=for-the-badge&logo=Bugsnag&logoColor=white"/>
 </p>
 
+<p style="float: left" title="Git service">
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bitbucket-0052CC.svg?&style=for-the-badge&logo=Bitbucket&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab-FC6D26.svg?&style=for-the-badge&logo=GitLab&logoColor=white"/>
+</p>
+
 # IDE
 <p style="float: left" title="IDE">
   <img src="https://img.shields.io/badge/JetBrains-000000.svg?&style=for-the-badge&logo=JetBrains&logoColor=white"/>
