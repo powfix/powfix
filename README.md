@@ -1,7 +1,7 @@
 
 
 # Stack
-<p style="float: left">
+<p style="float: left" title="Languages">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
@@ -20,6 +20,12 @@
   <img src="https://img.shields.io/badge/Raspberry Pi-A22846.svg?&style=for-the-badge&logo=Raspberry Pi&logoColor=white"/>
 </p>
 
+<p style="float: left" title="Hardware">
+  <img src="https://img.shields.io/badge/Arduino-00979D.svg?&style=for-the-badge&logo=Arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Raspberry Pi-A22846.svg?&style=for-the-badge&logo=Raspberry Pi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Espressif-E7352C.svg?&style=for-the-badge&logo=Espressif&logoColor=white"/>
+</p>
+
 <p style="float: left">
   <img src="https://img.shields.io/badge/Socket.io-010101.svg?&style=for-the-badge&logo=Socket.io&logoColor=white"/>
   <img src="https://img.shields.io/badge/.NET-512BD4.svg?&style=for-the-badge&logo=.NET&logoColor=white"/>
@@ -28,14 +34,14 @@
   <img src="https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=black"/>
 </p>
 
-<p style="float: left">
+<p style="float: left" title="Package manager">
   <img src="https://img.shields.io/badge/npm-CB3837.svg?&style=for-the-badge&logo=npm&logoColor=white"/>
   <img src="https://img.shields.io/badge/Yarn-2C8EBB.svg?&style=for-the-badge&logo=Yarn&logoColor=white"/>
   <img src="https://img.shields.io/badge/CocoaPods-EE3322.svg?&style=for-the-badge&logo=CocoaPods&logoColor=white"/>
   <img src="https://img.shields.io/badge/Homebrew-FBB040.svg?&style=for-the-badge&logo=Homebrew&logoColor=white"/>
 </p>
 
-<p style="float: left">
+<p style="float: left" title="Server Operating System">
   <img src="https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/CentOS-262577.svg?&style=for-the-badge&logo=CentOS&logoColor=white"/>
@@ -43,7 +49,7 @@
   <img src="https://img.shields.io/badge/Synology-B5B5B6.svg?&style=for-the-badge&logo=Synology&logoColor=white"/>
 </p>
 
-<p style="float: left">
+<p style="float: left" title="Database">
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/MariaDB-003545.svg?&style=for-the-badge&logo=MariaDB&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-003B57.svg?&style=for-the-badge&logo=SQLite&logoColor=white"/>
@@ -60,7 +66,7 @@
   <img src="https://img.shields.io/badge/Jenkins-D24939.svg?&style=for-the-badge&logo=Jenkins&logoColor=white"/>
 </p>
 
-<p style="float: left">
+<p style="float: left" title="Cloud Server">
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E.svg?&style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google Cloud-4285F4.svg?&style=for-the-badge&logo=Google Cloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Naver Cloud-03C75A.svg?&style=for-the-badge&logo=Naver&logoColor=white"/>
@@ -74,7 +80,7 @@
 </p>
 
 # IDE
-<p style="float: left">
+<p style="float: left" title="IDE">
   <img src="https://img.shields.io/badge/JetBrains-000000.svg?&style=for-the-badge&logo=JetBrains&logoColor=white"/>
   <img src="https://img.shields.io/badge/PhpStorm-000000.svg?&style=for-the-badge&logo=PhpStorm&logoColor=white"/>
   <img src="https://img.shields.io/badge/WebStorm-000000.svg?&style=for-the-badge&logo=WebStorm&logoColor=white"/>
@@ -83,7 +89,7 @@
 </p>
 
 # Environment
-<p style="float: left">
+<p style="float: left" title="Environment">
   <img src="https://img.shields.io/badge/macOS-000000.svg?&style=for-the-badge&logo=macOS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Windows-0078D6.svg?&style=for-the-badge&logo=Windows&logoColor=white"/>
 </p>
