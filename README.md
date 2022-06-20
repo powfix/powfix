@@ -64,7 +64,9 @@
   <img src="https://img.shields.io/badge/Let's Encrypt-003A70.svg?&style=for-the-badge&logo=Let's Encrypt&logoColor=white"/>
   <img src="https://img.shields.io/badge/VMware-607078.svg?&style=for-the-badge&logo=VMware&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939.svg?&style=for-the-badge&logo=Jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>
+  <a href="https://www.docker.com" target="_blank">
+    <img src="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>
+  </a>
   <a href="https://jmeter.apache.org" target="_blank">
     <img src="https://img.shields.io/badge/Apache JMeter-D22128.svg?&style=for-the-badge&logo=Apache JMeter&logoColor=white"/>
   </a>
