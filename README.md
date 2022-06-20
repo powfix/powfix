@@ -58,12 +58,13 @@
   <img src="https://img.shields.io/badge/Redis-DC382D.svg?&style=for-the-badge&logo=Redis&logoColor=white"/>
 </p>
 
-<p style="float: left">
+<p style="float: left" title="Server Applications">
   <img src="https://img.shields.io/badge/Apache-D22128.svg?&style=for-the-badge&logo=Apache&logoColor=white"/>
   <img src="https://img.shields.io/badge/NGINX-009639.svg?&style=for-the-badge&logo=NGINX&logoColor=white"/>
   <img src="https://img.shields.io/badge/Let's Encrypt-003A70.svg?&style=for-the-badge&logo=Let's Encrypt&logoColor=white"/>
   <img src="https://img.shields.io/badge/VMware-607078.svg?&style=for-the-badge&logo=VMware&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939.svg?&style=for-the-badge&logo=Jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>
 </p>
 
 <p style="float: left" title="Cloud/Server">
