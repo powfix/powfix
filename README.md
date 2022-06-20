@@ -66,10 +66,12 @@
   <img src="https://img.shields.io/badge/Jenkins-D24939.svg?&style=for-the-badge&logo=Jenkins&logoColor=white"/>
 </p>
 
-<p style="float: left" title="Cloud Server">
+<p style="float: left" title="Cloud/Server">
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E.svg?&style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google Cloud-4285F4.svg?&style=for-the-badge&logo=Google Cloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Naver Cloud-03C75A.svg?&style=for-the-badge&logo=Naver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/KT Cloud-000000.svg?&style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IDC-000000.svg?&style=for-the-badge&logoColor=white"/>
 </p>
 
 <p style="float: left">
