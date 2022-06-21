@@ -1,6 +1,6 @@
 
 <p style="float: left" title="Languages">
-  <a href="https://app.codesignal.com/profile/powfix/">
+  <a href="https://app.codesignal.com/profile/powfix/" target="_blank">
     <img align="left" alt="Sagnik's CodeSignal" height="72px" width="72px" src="https://github.com/sagnikghoshcr7/images/blob/master/codesignal_logo.png" />
   </a>
 </p>
