@@ -1,5 +1,3 @@
-
-
 # Stack
 <p style="float: left" title="Languages">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
@@ -16,12 +14,6 @@
   <img src="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-000000.svg?&style=for-the-badge&logo=Express&logoColor=white"/>
-</p>
-
-<p style="float: left" title="Hardware">
-  <img src="https://img.shields.io/badge/Arduino-00979D.svg?&style=for-the-badge&logo=Arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Raspberry Pi-A22846.svg?&style=for-the-badge&logo=Raspberry Pi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Espressif-E7352C.svg?&style=for-the-badge&logo=Espressif&logoColor=white"/>
 </p>
 
 <p style="float: left">
@@ -48,6 +40,26 @@
   <img src="https://img.shields.io/badge/Homebrew-FBB040.svg?&style=for-the-badge&logo=Homebrew&logoColor=white"/>
 </p>
 
+<p style="float: left" title="Hardware">
+  <img src="https://img.shields.io/badge/Arduino-00979D.svg?&style=for-the-badge&logo=Arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Raspberry Pi-A22846.svg?&style=for-the-badge&logo=Raspberry Pi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Espressif-E7352C.svg?&style=for-the-badge&logo=Espressif&logoColor=white"/>
+</p>
+
+<p style="float: left">
+  <img src="https://img.shields.io/badge/Atlassian-0052CC.svg?&style=for-the-badge&logo=Atlassian&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC.svg?&style=for-the-badge&logo=Jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Confluence-172B4D.svg?&style=for-the-badge&logo=Confluence&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bugsnag-4949E4.svg?&style=for-the-badge&logo=Bugsnag&logoColor=white"/>
+</p>
+
+<p style="float: left" title="Git service">
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bitbucket-0052CC.svg?&style=for-the-badge&logo=Bitbucket&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab-FC6D26.svg?&style=for-the-badge&logo=GitLab&logoColor=white"/>
+</p>
+
+### Server
 <p style="float: left" title="Server Operating System">
   <img src="https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white"/>
@@ -78,30 +90,22 @@
   <img src="https://img.shields.io/badge/IDC-000000.svg?&style=for-the-badge&logoColor=white"/>
 </p>
 
-<p style="float: left">
-  <img src="https://img.shields.io/badge/Atlassian-0052CC.svg?&style=for-the-badge&logo=Atlassian&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC.svg?&style=for-the-badge&logo=Jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Confluence-172B4D.svg?&style=for-the-badge&logo=Confluence&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bugsnag-4949E4.svg?&style=for-the-badge&logo=Bugsnag&logoColor=white"/>
+
+# 작업환경
+<p style="float: left" title="Environment">
+  <img src="https://img.shields.io/badge/macOS-000000.svg?&style=for-the-badge&logo=macOS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6.svg?&style=for-the-badge&logo=Windows&logoColor=white"/>
 </p>
 
-<p style="float: left" title="Git service">
-  <img src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bitbucket-0052CC.svg?&style=for-the-badge&logo=Bitbucket&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitLab-FC6D26.svg?&style=for-the-badge&logo=GitLab&logoColor=white"/>
-</p>
-
-# IDE
+### IDE
 <p style="float: left" title="IDE">
+  <img src="https://img.shields.io/badge/Android Studio-3DDC84.svg?&style=for-the-badge&logo=Android Studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Xcode-147EFB.svg?&style=for-the-badge&logo=Xcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Eclipse-2C2255.svg?&style=for-the-badge&logo=Eclipse IDE&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual Studio-5C2D91.svg?&style=for-the-badge&logo=Visual Studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/JetBrains-000000.svg?&style=for-the-badge&logo=JetBrains&logoColor=white"/>
   <img src="https://img.shields.io/badge/PhpStorm-000000.svg?&style=for-the-badge&logo=PhpStorm&logoColor=white"/>
   <img src="https://img.shields.io/badge/WebStorm-000000.svg?&style=for-the-badge&logo=WebStorm&logoColor=white"/>
   <img src="https://img.shields.io/badge/DataGrip-000000.svg?&style=for-the-badge&logo=DataGrip&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual Studio-5C2D91.svg?&style=for-the-badge&logo=Visual Studio&logoColor=white"/>
-</p>
-
-# Environment
-<p style="float: left" title="Environment">
-  <img src="https://img.shields.io/badge/macOS-000000.svg?&style=for-the-badge&logo=macOS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6.svg?&style=for-the-badge&logo=Windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
 </p>
