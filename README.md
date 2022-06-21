@@ -32,6 +32,15 @@
   <img src="https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=black"/>
 </p>
 
+<p style="float: left" title="Database">
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545.svg?&style=for-the-badge&logo=MariaDB&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57.svg?&style=for-the-badge&logo=SQLite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon DynamoDB-4053D6.svg?&style=for-the-badge&logo=Amazon DynamoDB&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D.svg?&style=for-the-badge&logo=Redis&logoColor=white"/>
+</p>
+
 <p style="float: left" title="Package manager">
   <img src="https://img.shields.io/badge/npm-CB3837.svg?&style=for-the-badge&logo=npm&logoColor=white"/>
   <img src="https://img.shields.io/badge/Yarn-2C8EBB.svg?&style=for-the-badge&logo=Yarn&logoColor=white"/>
@@ -45,15 +54,6 @@
   <img src="https://img.shields.io/badge/CentOS-262577.svg?&style=for-the-badge&logo=CentOS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kali Linux-557C94.svg?&style=for-the-badge&logo=Kali Linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Synology-B5B5B6.svg?&style=for-the-badge&logo=Synology&logoColor=white"/>
-</p>
-
-<p style="float: left" title="Database">
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MariaDB-003545.svg?&style=for-the-badge&logo=MariaDB&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57.svg?&style=for-the-badge&logo=SQLite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon DynamoDB-4053D6.svg?&style=for-the-badge&logo=Amazon DynamoDB&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D.svg?&style=for-the-badge&logo=Redis&logoColor=white"/>
 </p>
 
 <p style="float: left" title="Server Applications">
