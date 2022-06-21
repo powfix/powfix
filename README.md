@@ -1,3 +1,12 @@
+
+<p style="float: left" title="Languages">
+  <a href="https://app.codesignal.com/profile/eun-ho_k/">
+    <img align="left" alt="Sagnik's CodeSignal" height="72px" width="72px" src="https://github.com/sagnikghoshcr7/images/blob/master/codesignal_logo.png" />
+  </a>
+</p>
+
+<br/><br/><br/>
+
 # Stack
 <p style="float: left" title="Languages">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
@@ -91,7 +100,7 @@
 </p>
 
 
-# 작업환경
+# Environment
 <p style="float: left" title="Environment">
   <img src="https://img.shields.io/badge/macOS-000000.svg?&style=for-the-badge&logo=macOS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Windows-0078D6.svg?&style=for-the-badge&logo=Windows&logoColor=white"/>
