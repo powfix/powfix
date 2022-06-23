@@ -21,6 +21,7 @@
 
 <p style="float: left">
   <img src="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React Native-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-000000.svg?&style=for-the-badge&logo=Express&logoColor=white"/>
 </p>
@@ -33,26 +34,11 @@
   <img src="https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=black"/>
 </p>
 
-<p style="float: left" title="Database">
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MariaDB-003545.svg?&style=for-the-badge&logo=MariaDB&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57.svg?&style=for-the-badge&logo=SQLite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon DynamoDB-4053D6.svg?&style=for-the-badge&logo=Amazon DynamoDB&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D.svg?&style=for-the-badge&logo=Redis&logoColor=white"/>
-</p>
-
 <p style="float: left" title="Package manager">
   <img src="https://img.shields.io/badge/npm-CB3837.svg?&style=for-the-badge&logo=npm&logoColor=white"/>
   <img src="https://img.shields.io/badge/Yarn-2C8EBB.svg?&style=for-the-badge&logo=Yarn&logoColor=white"/>
   <img src="https://img.shields.io/badge/CocoaPods-EE3322.svg?&style=for-the-badge&logo=CocoaPods&logoColor=white"/>
   <img src="https://img.shields.io/badge/Homebrew-FBB040.svg?&style=for-the-badge&logo=Homebrew&logoColor=white"/>
-</p>
-
-<p style="float: left" title="Hardware">
-  <img src="https://img.shields.io/badge/Arduino-00979D.svg?&style=for-the-badge&logo=Arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Raspberry Pi-A22846.svg?&style=for-the-badge&logo=Raspberry Pi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Espressif-E7352C.svg?&style=for-the-badge&logo=Espressif&logoColor=white"/>
 </p>
 
 <p style="float: left">
@@ -69,12 +55,29 @@
 </p>
 
 ### Server
+<p style="float: left" title="Cloud/Server">
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E.svg?&style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google Cloud-4285F4.svg?&style=for-the-badge&logo=Google Cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Naver Cloud-03C75A.svg?&style=for-the-badge&logo=Naver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/KT Cloud-000000.svg?&style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IDC-000000.svg?&style=for-the-badge&logoColor=white"/>
+</p>
+
 <p style="float: left" title="Server Operating System">
   <img src="https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/CentOS-262577.svg?&style=for-the-badge&logo=CentOS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kali Linux-557C94.svg?&style=for-the-badge&logo=Kali Linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Synology-B5B5B6.svg?&style=for-the-badge&logo=Synology&logoColor=white"/>
+</p>
+
+<p style="float: left" title="Database">
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545.svg?&style=for-the-badge&logo=MariaDB&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57.svg?&style=for-the-badge&logo=SQLite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon DynamoDB-4053D6.svg?&style=for-the-badge&logo=Amazon DynamoDB&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D.svg?&style=for-the-badge&logo=Redis&logoColor=white"/>
 </p>
 
 <p style="float: left" title="Server Applications">
@@ -91,12 +94,11 @@
   </a>
 </p>
 
-<p style="float: left" title="Cloud/Server">
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E.svg?&style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google Cloud-4285F4.svg?&style=for-the-badge&logo=Google Cloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Naver Cloud-03C75A.svg?&style=for-the-badge&logo=Naver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/KT Cloud-000000.svg?&style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IDC-000000.svg?&style=for-the-badge&logoColor=white"/>
+### Hardware
+<p style="float: left" title="Hardware">
+  <img src="https://img.shields.io/badge/Arduino-00979D.svg?&style=for-the-badge&logo=Arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Raspberry Pi-A22846.svg?&style=for-the-badge&logo=Raspberry Pi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Espressif-E7352C.svg?&style=for-the-badge&logo=Espressif&logoColor=white"/>
 </p>
 
 
