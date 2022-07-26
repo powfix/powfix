@@ -9,7 +9,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:powfix@gmail.com)](mailto:powfix@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kyung-min-kwon-026496244/)](https://www.linkedin.com/in/kyung-min-kwon-026496244/)
 
-<br/><br/><br/>
+<br><br>
 
 # Stack
 <p style="float: left" title="Languages">
