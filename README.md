@@ -1,13 +1,18 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:powfix@gmail.com)](mailto:powfix@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kyung-min-kwon-026496244/)](https://www.linkedin.com/in/kyung-min-kwon-026496244/)
 
-[![POWFIX GitHub stats](https://github-readme-stats.vercel.app/api?username=powfix)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Top Languages -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=powfix&langs_count=8&layout=compact)](https://github.com/powfix)
+<!--- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=powfix&langs_count=8&layout=donut) --->
+<!--- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=powfix&langs_count=8&layout=donut-vertical) --->
+<!--- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=powfix&langs_count=8&layout=pie) --->
 
-<div align=center>
-  <a href="https://app.codesignal.com/profile/powfix/" target="_blank">
+<!-- WakaTime -->
+<!-- [![POWFIX WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=powfix)](https://github.com/powfix) -->
+
+<a href="https://app.codesignal.com/profile/powfix/" target="_blank">
     <img align="left" alt="Sagnik's CodeSignal" height="72px" width="72px" src="https://raw.githubusercontent.com/powfix/powfix/main/resources/codesignal_logo.png" />
-  </a>
-</div>
+</a>
 
 <br><br><br>
 
