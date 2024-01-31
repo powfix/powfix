@@ -22,7 +22,8 @@
 
 <br><br>
 
-# Stack
+## 🧑🏻‍💻 Languages & Frameworks & Platforms & Skills
+#### Languages
 <p style="float: left" title="Languages">
   <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
@@ -35,11 +36,17 @@
   <img src="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white"/>
 </p>
 
-<p style="float: left">
+#### Frameworks
+<p style="float: left" title="Frameworks">
   <img src="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/React Native-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-000000.svg?&style=for-the-badge&logo=Express&logoColor=white"/>
+</p>
+
+#### CI/CD
+<p style="float: left" title="CI/CD">
+  <img src="https://img.shields.io/badge/Jenkins-D24939.svg?&style=for-the-badge&logo=React&logoColor=white"/>
 </p>
 
 <p style="float: left">
@@ -50,6 +57,7 @@
   <img src="https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=black"/>
 </p>
 
+#### Package manager
 <p style="float: left" title="Package manager">
   <img src="https://img.shields.io/badge/npm-CB3837.svg?&style=for-the-badge&logo=npm&logoColor=white"/>
   <img src="https://img.shields.io/badge/Yarn-2C8EBB.svg?&style=for-the-badge&logo=Yarn&logoColor=white"/>
@@ -64,13 +72,14 @@
   <img src="https://img.shields.io/badge/Bugsnag-4949E4.svg?&style=for-the-badge&logo=Bugsnag&logoColor=white"/>
 </p>
 
+#### VCS
 <p style="float: left" title="Git service">
   <img src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bitbucket-0052CC.svg?&style=for-the-badge&logo=Bitbucket&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitLab-FC6D26.svg?&style=for-the-badge&logo=GitLab&logoColor=white"/>
 </p>
 
-### Server
+#### Cloud Server
 <p style="float: left" title="Cloud/Server">
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E.svg?&style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google Cloud-4285F4.svg?&style=for-the-badge&logo=Google Cloud&logoColor=white"/>
@@ -79,6 +88,7 @@
   <img src="https://img.shields.io/badge/IDC-000000.svg?&style=for-the-badge&logoColor=white"/>
 </p>
 
+#### Server Operating System
 <p style="float: left" title="Server Operating System">
   <img src="https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white"/>
@@ -87,6 +97,7 @@
   <img src="https://img.shields.io/badge/Synology-B5B5B6.svg?&style=for-the-badge&logo=Synology&logoColor=white"/>
 </p>
 
+#### Database
 <p style="float: left" title="Database">
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/MariaDB-003545.svg?&style=for-the-badge&logo=MariaDB&logoColor=white"/>
@@ -110,7 +121,7 @@
   </a>
 </p>
 
-### Hardware
+#### Embedded
 <p style="float: left" title="Hardware">
   <img src="https://img.shields.io/badge/Arduino-00979D.svg?&style=for-the-badge&logo=Arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/Raspberry Pi-A22846.svg?&style=for-the-badge&logo=Raspberry Pi&logoColor=white"/>
