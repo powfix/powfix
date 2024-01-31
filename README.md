@@ -57,7 +57,7 @@
   <img src="https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=black"/>
 </p>
 
-#### Package manager
+#### Package managers
 <p style="float: left" title="Package manager">
   <img src="https://img.shields.io/badge/npm-CB3837.svg?&style=for-the-badge&logo=npm&logoColor=white"/>
   <img src="https://img.shields.io/badge/Yarn-2C8EBB.svg?&style=for-the-badge&logo=Yarn&logoColor=white"/>
@@ -73,7 +73,10 @@
 </p>
 
 #### VCS
-<p style="float: left" title="Git service">
+<p style="float: left" title="VSC">
+  <img src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
+</p>
+<p style="float: left" title="Git hosting service">
   <img src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bitbucket-0052CC.svg?&style=for-the-badge&logo=Bitbucket&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitLab-FC6D26.svg?&style=for-the-badge&logo=GitLab&logoColor=white"/>
@@ -112,7 +115,6 @@
   <img src="https://img.shields.io/badge/NGINX-009639.svg?&style=for-the-badge&logo=NGINX&logoColor=white"/>
   <img src="https://img.shields.io/badge/Let's Encrypt-003A70.svg?&style=for-the-badge&logo=Let's Encrypt&logoColor=white"/>
   <img src="https://img.shields.io/badge/VMware-607078.svg?&style=for-the-badge&logo=VMware&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939.svg?&style=for-the-badge&logo=Jenkins&logoColor=white"/>
   <a href="https://www.docker.com" target="_blank">
     <img src="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>
   </a>
@@ -128,14 +130,13 @@
   <img src="https://img.shields.io/badge/Espressif-E7352C.svg?&style=for-the-badge&logo=Espressif&logoColor=white"/>
 </p>
 
-
-# Environment
+## Environment
 <p style="float: left" title="Environment">
   <img src="https://img.shields.io/badge/macOS-000000.svg?&style=for-the-badge&logo=macOS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Windows-0078D6.svg?&style=for-the-badge&logo=Windows&logoColor=white"/>
 </p>
 
-### IDE
+#### IDE
 <p style="float: left" title="IDE">
   <img src="https://img.shields.io/badge/Android Studio-3DDC84.svg?&style=for-the-badge&logo=Android Studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Xcode-147EFB.svg?&style=for-the-badge&logo=Xcode&logoColor=white"/>
