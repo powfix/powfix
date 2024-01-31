@@ -14,7 +14,9 @@
     <img align="left" alt="Sagnik's CodeSignal" height="72px" width="72px" src="https://raw.githubusercontent.com/powfix/powfix/main/resources/codesignal_logo.png" />
 </a>
 
-<br><br><br>
+<br>
+<br>
+<br>
 
 <br><br>
 
