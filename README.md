@@ -51,6 +51,13 @@
     <img src="https://img.shields.io/badge/Jenkins-D24939.svg?&style=for-the-badge&logo=React&logoColor=white"/>
 </p>
 
+#### ORM
+<p style="float: left" title="ORM">
+    <img src="https://img.shields.io/badge/Sequelize-52B0E7.svg?&style=for-the-badge&logo=sequelize&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Prisma-2D3748.svg?&style=for-the-badge&logo=prisma&logoColor=white"/>
+    
+</p>
+
 #### UI Component library
 <p style="float: left" title="UI Component library">
     <img src="https://img.shields.io/badge/MUI-007FFF.svg?&style=for-the-badge&logo=Mui&logoColor=white"/>
@@ -95,11 +102,11 @@
 
 #### Server Operating System
 <p style="float: left" title="Server Operating System">
-  <img src="https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CentOS-262577.svg?&style=for-the-badge&logo=CentOS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kali Linux-557C94.svg?&style=for-the-badge&logo=Kali Linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Synology-B5B5B6.svg?&style=for-the-badge&logo=Synology&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CentOS-262577.svg?&style=for-the-badge&logo=CentOS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Kali Linux-557C94.svg?&style=for-the-badge&logo=Kali Linux&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Synology-B5B5B6.svg?&style=for-the-badge&logo=Synology&logoColor=white"/>
     <img src="https://img.shields.io/badge/Windows Server-0078D4.svg?&style=for-the-badge&logo=windows&logoColor=white"/>
 </p>
 
@@ -141,6 +148,11 @@
   <img src="https://img.shields.io/badge/Espressif-E7352C.svg?&style=for-the-badge&logo=Espressif&logoColor=white"/>
 </p>
 
+#### Networking
+<p style="float: left" title="Networking">
+    <img src="https://img.shields.io/badge/Mikrotik-293239.svg?&style=for-the-badge&logo=mikrotik&logoColor=white"/>
+</p>
+
 ## Environment
 <p style="float: left" title="Environment">
   <img src="https://img.shields.io/badge/macOS-000000.svg?&style=for-the-badge&logo=macOS&logoColor=white"/>
@@ -159,3 +171,4 @@
   <img src="https://img.shields.io/badge/DataGrip-000000.svg?&style=for-the-badge&logo=DataGrip&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
 </p>
+
