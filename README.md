@@ -38,31 +38,31 @@
 
 #### Frameworks
 <p style="float: left" title="Frameworks">
-  <img src="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React Native-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000.svg?&style=for-the-badge&logo=Express&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React Native-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Express-000000.svg?&style=for-the-badge&logo=Express&logoColor=white"/>
+    <img src="https://img.shields.io/badge/.NET-512BD4.svg?&style=for-the-badge&logo=.NET&logoColor=white"/>
 </p>
 
 #### CI/CD
 <p style="float: left" title="CI/CD">
-  <img src="https://img.shields.io/badge/Jenkins-D24939.svg?&style=for-the-badge&logo=React&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Jenkins-D24939.svg?&style=for-the-badge&logo=React&logoColor=white"/>
 </p>
 
 <p style="float: left">
-  <img src="https://img.shields.io/badge/Socket.io-010101.svg?&style=for-the-badge&logo=Socket.io&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4.svg?&style=for-the-badge&logo=.NET&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unity-FFFFFF.svg?&style=for-the-badge&logo=Unity&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?&style=for-the-badge&logo=Firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Socket.io-010101.svg?&style=for-the-badge&logo=Socket.io&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Unity-FFFFFF.svg?&style=for-the-badge&logo=Unity&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?&style=for-the-badge&logo=Firebase&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=black"/>
 </p>
 
 #### Package managers
 <p style="float: left" title="Package manager">
-  <img src="https://img.shields.io/badge/npm-CB3837.svg?&style=for-the-badge&logo=npm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Yarn-2C8EBB.svg?&style=for-the-badge&logo=Yarn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CocoaPods-EE3322.svg?&style=for-the-badge&logo=CocoaPods&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Homebrew-FBB040.svg?&style=for-the-badge&logo=Homebrew&logoColor=white"/>
+    <img src="https://img.shields.io/badge/npm-CB3837.svg?&style=for-the-badge&logo=npm&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Yarn-2C8EBB.svg?&style=for-the-badge&logo=Yarn&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CocoaPods-EE3322.svg?&style=for-the-badge&logo=CocoaPods&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Homebrew-FBB040.svg?&style=for-the-badge&logo=Homebrew&logoColor=white"/>
 </p>
 
 <p style="float: left">
