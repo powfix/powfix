@@ -43,6 +43,7 @@
     <img src="https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white"/>
     <img src="https://img.shields.io/badge/Express-000000.svg?&style=for-the-badge&logo=Express&logoColor=white"/>
     <img src="https://img.shields.io/badge/.NET-512BD4.svg?&style=for-the-badge&logo=.NET&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white"/>
 </p>
 
 #### CI/CD
@@ -64,11 +65,13 @@
     <img src="https://img.shields.io/badge/Homebrew-FBB040.svg?&style=for-the-badge&logo=Homebrew&logoColor=white"/>
 </p>
 
+#### Project Management Software
 <p style="float: left">
-  <img src="https://img.shields.io/badge/Atlassian-0052CC.svg?&style=for-the-badge&logo=Atlassian&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC.svg?&style=for-the-badge&logo=Jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Confluence-172B4D.svg?&style=for-the-badge&logo=Confluence&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bugsnag-4949E4.svg?&style=for-the-badge&logo=Bugsnag&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Atlassian-0052CC.svg?&style=for-the-badge&logo=Atlassian&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Jira-0052CC.svg?&style=for-the-badge&logo=Jira&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Trello-0052CC.svg?&style=for-the-badge&logo=Trello&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Confluence-172B4D.svg?&style=for-the-badge&logo=Confluence&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Bugsnag-4949E4.svg?&style=for-the-badge&logo=Bugsnag&logoColor=white"/>
 </p>
 
 #### VCS
