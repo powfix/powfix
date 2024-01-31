@@ -1,3 +1,5 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <div align=center>
   <a href="https://app.codesignal.com/profile/powfix/" target="_blank">
     <img align="left" alt="Sagnik's CodeSignal" height="72px" width="72px" src="https://raw.githubusercontent.com/powfix/powfix/main/resources/codesignal_logo.png" />
