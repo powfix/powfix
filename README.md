@@ -89,8 +89,8 @@
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E.svg?&style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google Cloud-4285F4.svg?&style=for-the-badge&logo=Google Cloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Naver Cloud-03C75A.svg?&style=for-the-badge&logo=Naver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/KT Cloud-000000.svg?&style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IDC-000000.svg?&style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/KT Cloud-000000.svg?&style=for-the-badge&logo=googlecloudstorage&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IDC-000000.svg?&style=for-the-badge&logo=googlecloudstorage&logoColor=white"/>
 </p>
 
 #### Server Operating System
@@ -100,9 +100,10 @@
   <img src="https://img.shields.io/badge/CentOS-262577.svg?&style=for-the-badge&logo=CentOS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kali Linux-557C94.svg?&style=for-the-badge&logo=Kali Linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Synology-B5B5B6.svg?&style=for-the-badge&logo=Synology&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Windows Server-0078D4.svg?&style=for-the-badge&logo=windows&logoColor=white"/>
 </p>
 
-#### Database
+#### Database / Cache
 <p style="float: left" title="Database">
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/MariaDB-003545.svg?&style=for-the-badge&logo=MariaDB&logoColor=white"/>
